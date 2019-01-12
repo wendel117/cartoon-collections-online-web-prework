@@ -1,6 +1,7 @@
 def roll_call_dwarves(name, index)
   # code an argument here
   roll_call_dwarves.each_with_index do |name, index|
+    puts name
   # Your code here
 end
 
